@@ -4,6 +4,7 @@
     "prettier-plugin-tailwindcss": "^0.5.2"
   },
   "dependencies": {
+    "tailwindcss": "^3.3.3",
     "tailwindcss-neumorphism": "^0.1.0"
   }
 }
